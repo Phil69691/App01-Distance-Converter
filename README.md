@@ -20,6 +20,14 @@ This shows the error messages that come up when you type something that isnt num
 
 These are all screenshots of the app working and all of the features working.
 
+
+Valid Black Box
+Test No	Proposed Test	Data Entered	Expected Result	            Actual Result	
+01	    Miles to Feet	miles = 2.0	10560		                        2 miles = 10560 feet
+02	    Feet to Miles	feet = 10560	2.0		                        10560 feet = 2 miles
+03	    Miles to Metres	metres = 2.0	3218.69		                  2.0 miles	3218.69	metres
+04	    Metres to Miles	metres = 3218.69	2.0		                  3218.69 metres =	2.0	miles
+
 Improvements - 1. Create an in website app for the converter so people can search it up
                2. If the app was created on a website a map could be added to pick to places and measure/ convert the distances
 Limitaions - 1. User has to download the file and run in in visual studio code or alternatinve
