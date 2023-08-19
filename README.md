@@ -22,11 +22,11 @@ These are all screenshots of the app working and all of the features working.
 
 
 Valid Black Box
-Test No	Proposed Test	Data Entered	Expected Result	            Actual Result	
-01	    Miles to Feet	miles = 2.0	10560		                        2 miles = 10560 feet
-02	    Feet to Miles	feet = 10560	2.0		                        10560 feet = 2 miles
-03	    Miles to Metres	metres = 2.0	3218.69		                  2.0 miles	3218.69	metres
-04	    Metres to Miles	metres = 3218.69	2.0		                  3218.69 metres =	2.0	miles
+
+ Actual - Miles to Feet	miles = 2.0	10560		                     Results -   2 miles = 10560 feet
+ Actual - Feet to Miles	feet = 10560	2.0		                     Results -   10560 feet = 2 miles
+ Actual - Miles to Metres	metres = 2.0	3218.69		               Results -    2.0 miles	3218.69	metres
+ Actual - Metres to Miles	metres = 3218.69	2.0		               Results -    3218.69 metres =	2.0	miles
 
 Improvements - 1. Create an in website app for the converter so people can search it up
                2. If the app was created on a website a map could be added to pick to places and measure/ convert the distances
