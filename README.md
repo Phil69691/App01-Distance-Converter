@@ -7,9 +7,7 @@ Screenshot 1 - main menu
 
 ![image](https://github.com/Phil69691/App01-Distance-Converter/assets/114498774/67c29d98-ea2d-4905-aab3-66b37673c3d6)
 
-This shows the menu for the app 
 
-![image](https://github.com/Phil69691/App01-Distance-Converter/assets/114498774/68e83630-bc4a-405a-b94d-e071444789f3)
 
 This shows the error messages that come up when you type something that isnt numbers
 
